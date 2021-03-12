@@ -1,5 +1,11 @@
 # Compiled class file
 *.class
+world
+creative
+creative2
+world_the_end
+world_nether
+creative2_nether
 
 # Log file
 *.log
@@ -11,7 +17,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
