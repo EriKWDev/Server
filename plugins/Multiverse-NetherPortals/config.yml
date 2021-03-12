@@ -1,0 +1,15 @@
+bounceback: true
+teleport_entities: true
+send_no_destination_message: true
+send_disabled_portal_message: true
+worlds:
+  creative2:
+    portalgoesto:
+      ENDER: creative2_the_end
+      NETHER: creative2_nether
+  creative2_the_end:
+    portalgoesto:
+      ENDER: creative2
+  creative2_nether:
+    portalgoesto:
+      NETHER: creative2
